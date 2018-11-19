@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=dWaEUYlOpsc
 The DNC breach info should also be here
 
 https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
+
+https://www.securityweek.com/suspected-russian-hackers-impersonate-state-department-aide
