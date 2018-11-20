@@ -9,3 +9,5 @@ The DNC breach info should also be here
 https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
 
 https://www.securityweek.com/suspected-russian-hackers-impersonate-state-department-aide
+
+https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html?
