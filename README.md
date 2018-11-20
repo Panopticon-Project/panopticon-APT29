@@ -11,3 +11,5 @@ https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-commi
 https://www.securityweek.com/suspected-russian-hackers-impersonate-state-department-aide
 
 https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html?
+
+https://www.wired.com/story/russia-fancy-bear-hackers-phishing/?
