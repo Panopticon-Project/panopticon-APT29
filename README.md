@@ -13,3 +13,5 @@ https://www.securityweek.com/suspected-russian-hackers-impersonate-state-departm
 https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html?
 
 https://www.wired.com/story/russia-fancy-bear-hackers-phishing/?
+
+https://www.scmagazine.com/home/security-news/cozy-bear-tracks-phishing-campaign-looks-like-work-of-russian-apt-group/
