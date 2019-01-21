@@ -15,3 +15,5 @@ https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortabl
 https://www.wired.com/story/russia-fancy-bear-hackers-phishing/?
 
 https://www.scmagazine.com/home/security-news/cozy-bear-tracks-phishing-campaign-looks-like-work-of-russian-apt-group/
+
+https://www.securityweek.com/dnc-russian-hackers-attacked-us-again-after-midterm-elections
