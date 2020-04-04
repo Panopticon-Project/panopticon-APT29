@@ -21,3 +21,5 @@ https://www.securityweek.com/dnc-russian-hackers-attacked-us-again-after-midterm
 https://yro.slashdot.org/story/19/10/19/0514242/russian-cyber-espionage-group-controlled-its-malware-partly-through-reddit-posts
 
 https://medium.com/@ryancor/extracting-embedded-payloads-from-malware-aaca8e9aa1a9
+
+https://www.carbonblack.com/2020/03/26/the-dukes-of-moscow/
