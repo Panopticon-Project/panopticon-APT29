@@ -23,3 +23,5 @@ https://yro.slashdot.org/story/19/10/19/0514242/russian-cyber-espionage-group-co
 https://medium.com/@ryancor/extracting-embedded-payloads-from-malware-aaca8e9aa1a9
 
 https://www.carbonblack.com/2020/03/26/the-dukes-of-moscow/
+
+https://medium.com/mitre-attack/attack-apt29-results-released-cd30b3686ad9 - detection, may not be useful
