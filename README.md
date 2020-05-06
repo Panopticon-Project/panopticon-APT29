@@ -27,3 +27,5 @@ https://www.carbonblack.com/2020/03/26/the-dukes-of-moscow/
 https://medium.com/mitre-attack/attack-apt29-results-released-cd30b3686ad9 - detection, may not be useful
 
 https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
+
+https://www.wired.com/story/cozy-bear-dukes-russian-hackers-new-tricks/
