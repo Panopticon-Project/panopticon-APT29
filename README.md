@@ -31,3 +31,5 @@ https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
 https://www.wired.com/story/cozy-bear-dukes-russian-hackers-new-tricks/
 
 http://www.cyberdefensemagazine.com/the-dukes-apt-7-years-of-russian-state-sponsored-hacking/
+
+https://blog.f-secure.com/podcast-dukes-apt29/
