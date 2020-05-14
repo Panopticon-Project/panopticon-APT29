@@ -33,3 +33,5 @@ https://www.wired.com/story/cozy-bear-dukes-russian-hackers-new-tricks/
 http://www.cyberdefensemagazine.com/the-dukes-apt-7-years-of-russian-state-sponsored-hacking/
 
 https://blog.f-secure.com/podcast-dukes-apt29/
+
+https://www.youtube.com/watch?time_continue=2&v=i9vk93sYKm8&feature=emb_logo
