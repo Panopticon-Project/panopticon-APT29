@@ -37,3 +37,5 @@ https://blog.f-secure.com/podcast-dukes-apt29/
 https://www.youtube.com/watch?time_continue=2&v=i9vk93sYKm8&feature=emb_logo
 
 https://www.darkreading.com/threat-intelligence/cozy-bear-emerges-from-hibernation-to-hack-eu-ministries/d/d-id/1336111
+
+https://www.securityweek.com/uk-says-russian-hackers-trying-steal-virus-vaccine-research
