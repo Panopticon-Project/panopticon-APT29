@@ -3,7 +3,29 @@
 sources to be looked at:
 https://www.youtube.com/watch?v=dWaEUYlOpsc
 
-The DNC breach info should also be here
+https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
+
+http://www.securityweek.com/russia-linked-spies-deliver-malware-dde-attack
+
+http://www.securityweek.com/tech-firms-target-domains-used-russia-linked-threat-group
+
+http://www.bbc.com/news/technology-42056555
+
+https://www.securityweek.com/xtunnel-malware-specifically-built-dnc-hack-report
+
+https://www.invincea.com/2016/07/tunnel-of-gov-dnc-hack-and-the-russian-xtunnel/
+
+https://www.threatconnect.com/blog/finding-nemohost-fancy-bear-infrastructure/
+
+https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
+
+https://www.wired.co.uk/article/dnc-hack-proof-russia-democrats
+
+https://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html
+
+https://www.wired.com/story/mueller-indictment-dnc-hack-russia-fancy-bear/
+
+https://www.securityweek.com/dnc-russian-hackers-attacked-us-again-after-midterm-elections
 
 https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
 
