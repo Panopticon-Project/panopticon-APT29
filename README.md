@@ -70,5 +70,7 @@ https://www.darkreading.com/threat-intelligence/cozy-bear-emerges-from-hibernati
 
 https://www.securityweek.com/uk-says-russian-hackers-trying-steal-virus-vaccine-research
 
+https://www.ncsc.gov.uk/files/Advisory-APT29-targets-COVID-19-vaccine-development.pdf
+
 Processed
 https://www.youtube.com/watch?v=dWaEUYlOpsc - no links to primary sources
