@@ -4,6 +4,16 @@ sources to be looked at:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
 
+https://www.nytimes.com/2017/08/16/world/europe/russia-ukraine-malware-hacking-witness.html
+
+https://asamborski.github.io/cs558_s17_blog/2017/02/24/dnc.html
+
+https://www.securityweek.com/us-govs-grizzly-steppe-report-fails-achieve-purpose-experts
+
+https://krebsonsecurity.com/tag/p-a-s-web-shell/
+
+https://us-cert.cisa.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf
+
 http://www.securityweek.com/russia-linked-spies-deliver-malware-dde-attack
 
 http://www.securityweek.com/tech-firms-target-domains-used-russia-linked-threat-group
