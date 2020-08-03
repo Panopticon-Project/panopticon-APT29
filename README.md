@@ -2,13 +2,19 @@
 
 For Tram:
 
-sources to be looked at:
+https://us-cert.cisa.gov/sites/default/files/publications/JAR_16-20296A_GRIZZLY%20STEPPE-2016-1229.pdf
+
+https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
+
+https://asamborski.github.io/cs558_s17_blog/2017/02/24/dnc.html
+
+Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
 
 https://www.nytimes.com/2017/08/16/world/europe/russia-ukraine-malware-hacking-witness.html
 
-https://asamborski.github.io/cs558_s17_blog/2017/02/24/dnc.html
+sources to be looked at:
 
 https://www.securityweek.com/us-govs-grizzly-steppe-report-fails-achieve-purpose-experts
 
