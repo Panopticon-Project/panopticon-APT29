@@ -1,5 +1,7 @@
 # panopticon-CozyBear
 
+For Tram:
+
 sources to be looked at:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
