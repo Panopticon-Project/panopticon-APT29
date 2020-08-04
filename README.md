@@ -16,8 +16,6 @@ https://www.nytimes.com/2017/08/16/world/europe/russia-ukraine-malware-hacking-w
 
 sources to be looked at:
 
-https://www.securityweek.com/us-govs-grizzly-steppe-report-fails-achieve-purpose-experts
-
 https://krebsonsecurity.com/tag/p-a-s-web-shell/
 
 https://us-cert.cisa.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf
@@ -80,5 +78,26 @@ https://www.securityweek.com/uk-says-russian-hackers-trying-steal-virus-vaccine-
 
 https://www.ncsc.gov.uk/files/Advisory-APT29-targets-COVID-19-vaccine-development.pdf
 
+https://www.securityweek.com/cozyduke-apt-responsible-white-house-state-department-attacks-kaspersky
+
+https://www.securityweek.com/more-evidence-links-russia-dnc-attack
+
+https://www.securityweek.com/us-officially-accuses-russia-election-hacks
+
+http://www.robertmlee.org/critiques-of-the-dhsfbis-grizzly-steppe-report/
+
+https://obamawhitehouse.archives.gov/the-press-office/2016/12/29/fact-sheet-actions-response-russian-malicious-cyber-activity-and
+
+https://www.securityweek.com/us-punishes-russia-over-election-hacks
+
+https://www.securityweek.com/spies-and-hackers-russians-sanctioned-us
+
+https://www.wordfence.com/blog/2016/12/russia-malware-ip-hack/
+
+https://www.securityweek.com/trump-meet-us-spy-chiefs-get-russian-hacking-facts
+
 Processed
+
 https://www.youtube.com/watch?v=dWaEUYlOpsc - no links to primary sources
+
+https://www.securityweek.com/us-govs-grizzly-steppe-report-fails-achieve-purpose-experts - stripped out links
