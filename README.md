@@ -96,6 +96,8 @@ https://www.wordfence.com/blog/2016/12/russia-malware-ip-hack/
 
 https://www.securityweek.com/trump-meet-us-spy-chiefs-get-russian-hacking-facts
 
+https://blog.talosintelligence.com/2020/08/attribution-puzzle.html
+
 Processed
 
 https://www.youtube.com/watch?v=dWaEUYlOpsc - no links to primary sources
