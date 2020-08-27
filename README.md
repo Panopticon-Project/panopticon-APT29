@@ -2,6 +2,8 @@
 
 For Tram:
 
+https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
+
 https://us-cert.cisa.gov/sites/default/files/publications/JAR_16-20296A_GRIZZLY%20STEPPE-2016-1229.pdf
 
 https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
