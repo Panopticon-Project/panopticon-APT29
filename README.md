@@ -102,6 +102,10 @@ https://blog.talosintelligence.com/2020/08/attribution-puzzle.html
 
 Processed
 
+https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
+
+Processed and unused
+
 https://www.youtube.com/watch?v=dWaEUYlOpsc - no links to primary sources
 
 https://www.securityweek.com/us-govs-grizzly-steppe-report-fails-achieve-purpose-experts - stripped out links
