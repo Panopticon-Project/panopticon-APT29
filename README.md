@@ -94,6 +94,40 @@ https://www.securityweek.com/trump-meet-us-spy-chiefs-get-russian-hacking-facts
 
 https://blog.talosintelligence.com/2020/08/attribution-puzzle.html
 
+https://arstechnica.com/security/2016/12/did-russia-tamper-with-the-2016-election-bitter-debate-likely-to-rage-on/
+
+https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
+
+http://blog.erratasec.com/2016/12/some-notes-on-iocs.html#.WJKCFPkrKUl
+
+https://www.threatconnect.com/blog/guccifer-2-0-dnc-breach/
+
+https://www.invincea.com/2016/07/tunnel-of-gov-dnc-hack-and-the-russian-xtunnel/
+
+https://www.us-cert.gov/ncas/current-activity/2016/12/29/GRIZZLY-STEPPE-Russian-Malicious-Cyber-Activity 
+
+https://www.threatconnect.com/blog/tapping-into-democratic-national-committee/
+
+https://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html
+
+https://glomardisclosure.com/2016/07/25/timeline-of-the-dnc-and-akp-hacks-wikileaks-releases/
+
+http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part-2.pdf
+
+https://www.schneier.com/blog/archives/2017/01/attributing_the_1.html
+
+http://www.npr.org/2010/11/30/131699467/is-wikileaks-release-brave-or-unethical
+
+https://twitter.com/GUCCIFER_2
+
+https://blog.malwarebytes.com/threat-analysis/2013/10/using-yara-to-attribute-malware/
+
+http://www.thedailybeast.com/articles/2015/04/08/obama-to-putin-stop-hacking-me.html
+
+http://researchcenter.paloaltonetworks.com/2015/07/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/
+
+http://researchcenter.paloaltonetworks.com/2015/07/unit-42-technical-analysis-seaduke/
+
 Processed
 
 https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
