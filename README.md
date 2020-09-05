@@ -128,6 +128,10 @@ http://researchcenter.paloaltonetworks.com/2015/07/tracking-minidionis-cozycars-
 
 http://researchcenter.paloaltonetworks.com/2015/07/unit-42-technical-analysis-seaduke/
 
+https://archive.f-secure.com/weblog/archives/00002764.html
+
+https://securelist.com/miniduke-is-back-nemesis-gemina-and-the-botgen-studio/64107/
+
 Processed
 
 https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
