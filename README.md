@@ -16,8 +16,6 @@ https://krebsonsecurity.com/tag/p-a-s-web-shell/
 
 sources to be looked at:
 
-https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
-
 https://www.wired.co.uk/article/dnc-hack-proof-russia-democrats
 
 https://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html
