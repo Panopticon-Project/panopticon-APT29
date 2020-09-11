@@ -16,8 +16,6 @@ https://krebsonsecurity.com/tag/p-a-s-web-shell/
 
 sources to be looked at:
 
-http://www.securityweek.com/tech-firms-target-domains-used-russia-linked-threat-group
-
 http://www.bbc.com/news/technology-42056555
 
 https://www.securityweek.com/xtunnel-malware-specifically-built-dnc-hack-report
