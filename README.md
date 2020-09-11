@@ -16,8 +16,6 @@ https://krebsonsecurity.com/tag/p-a-s-web-shell/
 
 sources to be looked at:
 
-http://www.bbc.com/news/technology-42056555
-
 https://www.securityweek.com/xtunnel-malware-specifically-built-dnc-hack-report
 
 https://www.invincea.com/2016/07/tunnel-of-gov-dnc-hack-and-the-russian-xtunnel/
