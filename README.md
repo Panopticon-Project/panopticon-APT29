@@ -16,8 +16,6 @@ https://krebsonsecurity.com/tag/p-a-s-web-shell/
 
 sources to be looked at:
 
-http://www.securityweek.com/russia-linked-spies-deliver-malware-dde-attack
-
 http://www.securityweek.com/tech-firms-target-domains-used-russia-linked-threat-group
 
 http://www.bbc.com/news/technology-42056555
