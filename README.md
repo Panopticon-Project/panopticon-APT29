@@ -16,8 +16,6 @@ https://krebsonsecurity.com/tag/p-a-s-web-shell/
 
 sources to be looked at:
 
-https://www.wired.co.uk/article/dnc-hack-proof-russia-democrats
-
 https://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html
 
 https://www.wired.com/story/mueller-indictment-dnc-hack-russia-fancy-bear/
@@ -131,3 +129,5 @@ Processed and unused
 https://www.youtube.com/watch?v=dWaEUYlOpsc - no links to primary sources
 
 https://www.securityweek.com/us-govs-grizzly-steppe-report-fails-achieve-purpose-experts - stripped out links
+
+https://www.wired.co.uk/article/dnc-hack-proof-russia-democrats
