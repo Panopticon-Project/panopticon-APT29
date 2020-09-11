@@ -16,8 +16,6 @@ https://krebsonsecurity.com/tag/p-a-s-web-shell/
 
 sources to be looked at:
 
-https://www.invincea.com/2016/07/tunnel-of-gov-dnc-hack-and-the-russian-xtunnel/
-
 https://www.threatconnect.com/blog/finding-nemohost-fancy-bear-infrastructure/
 
 https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
