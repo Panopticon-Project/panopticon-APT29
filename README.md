@@ -4,17 +4,17 @@ For Tram:
 
 https://asamborski.github.io/cs558_s17_blog/2017/02/24/dnc.html
 
+https://us-cert.cisa.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
 
 https://www.nytimes.com/2017/08/16/world/europe/russia-ukraine-malware-hacking-witness.html
 
-sources to be looked at:
-
 https://krebsonsecurity.com/tag/p-a-s-web-shell/
 
-https://us-cert.cisa.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf
+sources to be looked at:
 
 http://www.securityweek.com/russia-linked-spies-deliver-malware-dde-attack
 
