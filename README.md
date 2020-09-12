@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.volkskrant.nl/wetenschap/dutch-agencies-provide-crucial-intel-about-russia-s-interference-in-us-elections~b4f8111b/
-
 https://www.securityweek.com/dnc-russian-hackers-attacked-us-again-after-midterm-elections
 
 https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
@@ -134,6 +132,8 @@ https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163418/CozyDuke.pd
 
 https://www.courtlistener.com/recap/gov.uscourts.nysd.492363/gov.uscourts.nysd.492363.216.0.pdf - complaint was updated
 
+https://www.volkskrant.nl/wetenschap/dutch-agencies-provide-crucial-intel-about-russia-s-interference-in-us-elections~b4f8111b/
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
@@ -151,11 +151,3 @@ https://us-cert.cisa.gov/sites/default/files/publications/JAR_16-20296A_GRIZZLY%
 https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
 
 https://us-cert.cisa.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf
-
-Processed and unused
-
-https://www.youtube.com/watch?v=dWaEUYlOpsc - no links to primary sources
-
-https://www.securityweek.com/us-govs-grizzly-steppe-report-fails-achieve-purpose-experts - stripped out links
-
-https://www.wired.co.uk/article/dnc-hack-proof-russia-democrats
