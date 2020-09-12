@@ -136,6 +136,8 @@ https://threatconnect.com/blog/tapping-into-democratic-national-committee/
 
 https://www.volexity.com/blog/2016/11/09/powerduke-post-election-spear-phishing-campaigns-targeting-think-tanks-and-ngos/
 
+https://www.securityweek.com/onionduke-apt-malware-distributed-malicious-tor-exit-node
+
 Processed
 
 https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
