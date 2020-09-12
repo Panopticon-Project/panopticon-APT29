@@ -2,22 +2,6 @@
 
 For Tram:
 
-Manual Analysis:
-
-https://asamborski.github.io/cs558_s17_blog/2017/02/24/dnc.html
-
-Confirm why we have these:
-
-https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
-
-https://www.nytimes.com/2017/08/16/world/europe/russia-ukraine-malware-hacking-witness.html
-
-https://krebsonsecurity.com/tag/p-a-s-web-shell/
-
-sources to be looked at:
-
-https://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html
-
 https://www.wired.com/story/mueller-indictment-dnc-hack-russia-fancy-bear/
 
 https://www.securityweek.com/dnc-russian-hackers-attacked-us-again-after-midterm-elections
@@ -55,8 +39,6 @@ https://www.youtube.com/watch?time_continue=2&v=i9vk93sYKm8&feature=emb_logo
 https://www.darkreading.com/threat-intelligence/cozy-bear-emerges-from-hibernation-to-hack-eu-ministries/d/d-id/1336111
 
 https://www.securityweek.com/uk-says-russian-hackers-trying-steal-virus-vaccine-research
-
-https://www.ncsc.gov.uk/files/Advisory-APT29-targets-COVID-19-vaccine-development.pdf
 
 https://www.securityweek.com/cozyduke-apt-responsible-white-house-state-department-attacks-kaspersky
 
@@ -96,8 +78,6 @@ https://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html
 
 https://glomardisclosure.com/2016/07/25/timeline-of-the-dnc-and-akp-hacks-wikileaks-releases/
 
-http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part-2.pdf
-
 https://www.schneier.com/blog/archives/2017/01/attributing_the_1.html
 
 http://www.npr.org/2010/11/30/131699467/is-wikileaks-release-brave-or-unethical
@@ -116,14 +96,6 @@ https://archive.f-secure.com/weblog/archives/00002764.html
 
 https://securelist.com/miniduke-is-back-nemesis-gemina-and-the-botgen-studio/64107/
 
-https://blog-assets.f-secure.com/wp-content/uploads/2020/03/18122307/F-Secure_Dukes_Whitepaper.pdf
-
-https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163405/CosmicDuke.pdf
-
-https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/OnionDuke_Tor.pdf
-
-https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163418/CozyDuke.pdf
-
 https://blog.crysys.hu/2013/02/miniduke/
 
 https://unit42.paloaltonetworks.com/unit42-the-dukes-rd-finds-a-new-anti-analysis-technique/
@@ -140,7 +112,31 @@ https://www.securityweek.com/onionduke-apt-malware-distributed-malicious-tor-exi
 
 https://blog.malwarebytes.com/detections/trojan-dropper/
 
-Processed
+Manual Analysis:
+
+https://asamborski.github.io/cs558_s17_blog/2017/02/24/dnc.html
+
+https://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html
+
+https://www.ncsc.gov.uk/files/Advisory-APT29-targets-COVID-19-vaccine-development.pdf
+
+https://blog-assets.f-secure.com/wp-content/uploads/2020/03/18122307/F-Secure_Dukes_Whitepaper.pdf
+
+https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163405/CosmicDuke.pdf
+
+https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/OnionDuke_Tor.pdf
+
+https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163418/CozyDuke.pdf
+
+Confirm why we have these:
+
+https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
+
+https://www.nytimes.com/2017/08/16/world/europe/russia-ukraine-malware-hacking-witness.html
+
+https://krebsonsecurity.com/tag/p-a-s-web-shell/
+
+Processed:
 
 https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
 
