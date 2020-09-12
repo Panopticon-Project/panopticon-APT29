@@ -2,6 +2,8 @@
 
 For Tram:
 
+Manual Analysis:
+
 https://asamborski.github.io/cs558_s17_blog/2017/02/24/dnc.html
 
 Confirm why we have these:
