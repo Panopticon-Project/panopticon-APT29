@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.securityweek.com/suspected-russian-hackers-impersonate-state-department-aide
-
 https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html?
 
 https://www.wired.com/story/russia-fancy-bear-hackers-phishing/?
@@ -109,6 +107,8 @@ https://blog.malwarebytes.com/detections/trojan-dropper/
 https://www.securityweek.com/suspected-russian-hackers-impersonate-state-department-aide
 
 https://www.securityweek.com/no-smoking-gun-tying-russia-spear-phishing-attack-microsoft-says
+
+https://www.securityweek.com/apt29-uses-stealthy-backdoor-maintain-access-targets
 
 Manual Analysis:
 
