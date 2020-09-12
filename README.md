@@ -2,12 +2,6 @@
 
 For Tram:
 
-https://www.scmagazine.com/home/security-news/cozy-bear-tracks-phishing-campaign-looks-like-work-of-russian-apt-group/
-
-https://www.securityweek.com/dnc-russian-hackers-attacked-us-again-after-midterm-elections
-
-https://yro.slashdot.org/story/19/10/19/0514242/russian-cyber-espionage-group-controlled-its-malware-partly-through-reddit-posts
-
 https://medium.com/@ryancor/extracting-embedded-payloads-from-malware-aaca8e9aa1a9
 
 https://www.carbonblack.com/2020/03/26/the-dukes-of-moscow/
@@ -108,6 +102,8 @@ https://www.securityweek.com/apt29-uses-stealthy-backdoor-maintain-access-target
 
 https://www.wired.com/2016/06/hack-brief-russias-breach-dnc-trumps-dirt/
 
+https://www.bleepingcomputer.com/news/security/cozy-bear-russian-hackers-spotted-after-staying-undetected-for-years/
+
 Manual Analysis:
 
 https://asamborski.github.io/cs558_s17_blog/2017/02/24/dnc.html
@@ -129,6 +125,8 @@ https://www.courtlistener.com/recap/gov.uscourts.nysd.492363/gov.uscourts.nysd.4
 https://www.volkskrant.nl/wetenschap/dutch-agencies-provide-crucial-intel-about-russia-s-interference-in-us-elections~b4f8111b/
 
 https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html
+
+https://www.scmagazine.com/home/security-news/cozy-bear-tracks-phishing-campaign-looks-like-work-of-russian-apt-group/
 
 Confirm why we have these:
 
