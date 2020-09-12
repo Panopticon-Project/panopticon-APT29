@@ -112,6 +112,10 @@ https://www.securityweek.com/onionduke-apt-malware-distributed-malicious-tor-exi
 
 https://blog.malwarebytes.com/detections/trojan-dropper/
 
+https://www.securityweek.com/suspected-russian-hackers-impersonate-state-department-aide
+
+https://www.securityweek.com/no-smoking-gun-tying-russia-spear-phishing-attack-microsoft-says
+
 Manual Analysis:
 
 https://asamborski.github.io/cs558_s17_blog/2017/02/24/dnc.html
@@ -127,6 +131,8 @@ https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163405/CosmicDuke.
 https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/OnionDuke_Tor.pdf
 
 https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163418/CozyDuke.pdf
+
+https://www.courtlistener.com/recap/gov.uscourts.nysd.492363/gov.uscourts.nysd.492363.216.0.pdf - complaint was updated
 
 Confirm why we have these:
 
