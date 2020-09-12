@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.wired.com/story/russia-fancy-bear-hackers-phishing/?
-
 https://www.scmagazine.com/home/security-news/cozy-bear-tracks-phishing-campaign-looks-like-work-of-russian-apt-group/
 
 https://www.securityweek.com/dnc-russian-hackers-attacked-us-again-after-midterm-elections
@@ -107,6 +105,8 @@ https://www.securityweek.com/suspected-russian-hackers-impersonate-state-departm
 https://www.securityweek.com/no-smoking-gun-tying-russia-spear-phishing-attack-microsoft-says
 
 https://www.securityweek.com/apt29-uses-stealthy-backdoor-maintain-access-targets
+
+https://www.wired.com/2016/06/hack-brief-russias-breach-dnc-trumps-dirt/
 
 Manual Analysis:
 
