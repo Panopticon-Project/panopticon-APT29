@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.securityweek.com/dnc-russian-hackers-attacked-us-again-after-midterm-elections
-
 https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
 
 https://www.securityweek.com/suspected-russian-hackers-impersonate-state-department-aide
