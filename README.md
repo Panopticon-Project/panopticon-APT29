@@ -138,6 +138,8 @@ https://www.volexity.com/blog/2016/11/09/powerduke-post-election-spear-phishing-
 
 https://www.securityweek.com/onionduke-apt-malware-distributed-malicious-tor-exit-node
 
+https://blog.malwarebytes.com/detections/trojan-dropper/
+
 Processed
 
 https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
