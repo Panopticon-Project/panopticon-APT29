@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html?
-
 https://www.wired.com/story/russia-fancy-bear-hackers-phishing/?
 
 https://www.scmagazine.com/home/security-news/cozy-bear-tracks-phishing-campaign-looks-like-work-of-russian-apt-group/
@@ -129,6 +127,8 @@ https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163418/CozyDuke.pd
 https://www.courtlistener.com/recap/gov.uscourts.nysd.492363/gov.uscourts.nysd.492363.216.0.pdf - complaint was updated
 
 https://www.volkskrant.nl/wetenschap/dutch-agencies-provide-crucial-intel-about-russia-s-interference-in-us-elections~b4f8111b/
+
+https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html
 
 Confirm why we have these:
 
