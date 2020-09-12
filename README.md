@@ -4,8 +4,6 @@ For Tram:
 
 https://asamborski.github.io/cs558_s17_blog/2017/02/24/dnc.html
 
-https://us-cert.cisa.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf
-
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
@@ -147,6 +145,8 @@ https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
 https://us-cert.cisa.gov/sites/default/files/publications/JAR_16-20296A_GRIZZLY%20STEPPE-2016-1229.pdf
 
 https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
+
+https://us-cert.cisa.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf
 
 Processed and unused
 
