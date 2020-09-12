@@ -2,7 +2,7 @@
 
 For Tram:
 
-https://www.wired.com/story/mueller-indictment-dnc-hack-russia-fancy-bear/
+https://www.volkskrant.nl/wetenschap/dutch-agencies-provide-crucial-intel-about-russia-s-interference-in-us-elections~b4f8111b/
 
 https://www.securityweek.com/dnc-russian-hackers-attacked-us-again-after-midterm-elections
 
