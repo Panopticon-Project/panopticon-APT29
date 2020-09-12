@@ -116,6 +116,26 @@ https://archive.f-secure.com/weblog/archives/00002764.html
 
 https://securelist.com/miniduke-is-back-nemesis-gemina-and-the-botgen-studio/64107/
 
+https://blog-assets.f-secure.com/wp-content/uploads/2020/03/18122307/F-Secure_Dukes_Whitepaper.pdf
+
+https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163405/CosmicDuke.pdf
+
+https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/OnionDuke_Tor.pdf
+
+https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163418/CozyDuke.pdf
+
+https://blog.crysys.hu/2013/02/miniduke/
+
+https://unit42.paloaltonetworks.com/unit42-the-dukes-rd-finds-a-new-anti-analysis-technique/
+
+https://unit42.paloaltonetworks.com/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/
+
+https://securelist.com/the-cozyduke-apt/69731/
+
+https://threatconnect.com/blog/tapping-into-democratic-national-committee/
+
+https://www.volexity.com/blog/2016/11/09/powerduke-post-election-spear-phishing-campaigns-targeting-think-tanks-and-ngos/
+
 Processed
 
 https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
