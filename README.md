@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://medium.com/mitre-attack/attack-apt29-results-released-cd30b3686ad9 - detection, may not be useful
-
 https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
 
 https://www.wired.com/story/cozy-bear-dukes-russian-hackers-new-tricks/
@@ -131,6 +129,8 @@ https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-
 https://www.nytimes.com/2017/08/16/world/europe/russia-ukraine-malware-hacking-witness.html
 
 https://krebsonsecurity.com/tag/p-a-s-web-shell/
+
+https://medium.com/mitre-attack/attack-apt29-results-released-cd30b3686ad9 - detection, may not be useful
 
 Processed:
 
