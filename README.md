@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.carbonblack.com/2020/03/26/the-dukes-of-moscow/
-
 https://medium.com/mitre-attack/attack-apt29-results-released-cd30b3686ad9 - detection, may not be useful
 
 https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
@@ -145,3 +143,5 @@ https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-commi
 https://us-cert.cisa.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf
 
 https://medium.com/@ryancor/extracting-embedded-payloads-from-malware-aaca8e9aa1a9
+
+https://www.carbonblack.com/2020/03/26/the-dukes-of-moscow/
