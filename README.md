@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.wired.com/story/cozy-bear-dukes-russian-hackers-new-tricks/
-
 http://www.cyberdefensemagazine.com/the-dukes-apt-7-years-of-russian-state-sponsored-hacking/
 
 https://blog.f-secure.com/podcast-dukes-apt29/
@@ -153,3 +151,5 @@ https://us-cert.cisa.gov/sites/default/files/publications/AR-17-20045_Enhanced_A
 https://medium.com/@ryancor/extracting-embedded-payloads-from-malware-aaca8e9aa1a9
 
 https://www.carbonblack.com/2020/03/26/the-dukes-of-moscow/
+
+https://www.wired.com/story/cozy-bear-dukes-russian-hackers-new-tricks/
