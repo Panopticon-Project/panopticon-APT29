@@ -96,6 +96,16 @@ https://www.wired.com/2016/06/hack-brief-russias-breach-dnc-trumps-dirt/
 
 https://www.bleepingcomputer.com/news/security/cozy-bear-russian-hackers-spotted-after-staying-undetected-for-years/
 
+https://www.wired.com/2016/07/heres-know-russia-dnc-hack/
+
+https://www.vice.com/en_us/article/nz79gb/russian-hackers-launch-targeted-cyberattacks-hours-after-trumps-win
+
+https://www.zdnet.com/article/russian-apt-comes-back-to-life-with-new-us-spear-phishing-campaign/
+
+https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html
+
+https://www.wired.com/2017/02/say-hello-super-stealthy-malware-thats-going-mainstream/
+
 Manual Analysis:
 
 https://asamborski.github.io/cs558_s17_blog/2017/02/24/dnc.html
