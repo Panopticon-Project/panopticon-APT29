@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://blog.talosintelligence.com/2020/08/attribution-puzzle.html
-
 https://arstechnica.com/security/2016/12/did-russia-tamper-with-the-2016-election-bitter-debate-likely-to-rage-on/
 
 https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
