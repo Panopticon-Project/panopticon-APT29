@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.securityweek.com/uk-says-russian-hackers-trying-steal-virus-vaccine-research
-
 https://www.securityweek.com/cozyduke-apt-responsible-white-house-state-department-attacks-kaspersky
 
 https://www.securityweek.com/more-evidence-links-russia-dnc-attack
