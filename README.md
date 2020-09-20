@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.darkreading.com/threat-intelligence/cozy-bear-emerges-from-hibernation-to-hack-eu-ministries/d/d-id/1336111
-
 https://www.securityweek.com/uk-says-russian-hackers-trying-steal-virus-vaccine-research
 
 https://www.securityweek.com/cozyduke-apt-responsible-white-house-state-department-attacks-kaspersky
@@ -157,3 +155,5 @@ https://medium.com/@ryancor/extracting-embedded-payloads-from-malware-aaca8e9aa1
 https://www.carbonblack.com/2020/03/26/the-dukes-of-moscow/
 
 https://www.wired.com/story/cozy-bear-dukes-russian-hackers-new-tricks/
+
+https://www.darkreading.com/threat-intelligence/cozy-bear-emerges-from-hibernation-to-hack-eu-ministries/d/d-id/1336111
