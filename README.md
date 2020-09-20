@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.invincea.com/2016/07/tunnel-of-gov-dnc-hack-and-the-russian-xtunnel/
-
 https://www.us-cert.gov/ncas/current-activity/2016/12/29/GRIZZLY-STEPPE-Russian-Malicious-Cyber-Activity 
 
 https://www.threatconnect.com/blog/tapping-into-democratic-national-committee/
