@@ -126,6 +126,8 @@ https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortabl
 
 https://www.scmagazine.com/home/security-news/cozy-bear-tracks-phishing-campaign-looks-like-work-of-russian-apt-group/
 
+https://www.volexity.com/blog/2016/11/09/powerduke-post-election-spear-phishing-campaigns-targeting-think-tanks-and-ngos/
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
