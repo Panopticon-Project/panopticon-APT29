@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.securityweek.com/cozyduke-apt-responsible-white-house-state-department-attacks-kaspersky
-
 https://www.securityweek.com/more-evidence-links-russia-dnc-attack
 
 https://www.securityweek.com/us-officially-accuses-russia-election-hacks
@@ -163,3 +161,5 @@ https://www.carbonblack.com/2020/03/26/the-dukes-of-moscow/
 https://www.wired.com/story/cozy-bear-dukes-russian-hackers-new-tricks/
 
 https://www.darkreading.com/threat-intelligence/cozy-bear-emerges-from-hibernation-to-hack-eu-ministries/d/d-id/1336111
+
+https://www.securityweek.com/cozyduke-apt-responsible-white-house-state-department-attacks-kaspersky
