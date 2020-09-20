@@ -110,6 +110,30 @@ https://www.gov.uk/government/news/uk-condemns-russian-intelligence-services-ove
 
 https://us-cert.cisa.gov/ncas/analysis-reports/ar20-198b
 
+https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume1.pdf
+
+https://www.justice.gov/storage/report.pdf
+
+https://www.washingtonpost.com/world/national-security/russian-government-hackers-penetrated-dnc-stole-opposition-research-on-trump/2016/06/14/cf006cb4-316e-11e6-8ff7-7b6c1998b7a0_story.html
+
+https://www.theguardian.com/technology/2015/aug/06/us-military-joint-chiefs-hacked-officials-blame-russia
+
+https://www.ecfr.eu/publications/summary/putins_hydra_inside_russias_intelligence_services
+
+https://www.crowdstrike.com/blog/is-there-such-a-thing-as-a-malicious-powershell-command/
+
+https://intelligence.house.gov/uploadedfiles/ty54.pdf
+
+https://intelligence.house.gov/uploadedfiles/jc5.pdf
+
+https://www.crowdstrike.com/blog/who-is-cozy-bear/
+
+https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume4.pdf
+
+https://www.dni.gov/files/documents/ICA_2017_01.pdf
+
+https://intelligence.house.gov/uploadedfiles/sh21.pdf
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
