@@ -120,6 +120,8 @@ https://www.securityweek.com/onionduke-apt-malware-distributed-malicious-tor-exi
 
 https://media.defense.gov/2020/Jul/16/2002457639/-1/-1/0/NCSC_APT29_ADVISORY-QUAD-OFFICIAL-20200709-1810.PDF
 
+https://blogs.jpcert.or.jp/en/2018/07/malware-wellmes-9b78.html
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
