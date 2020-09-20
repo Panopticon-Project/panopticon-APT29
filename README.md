@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.securityweek.com/us-punishes-russia-over-election-hacks
-
 https://www.securityweek.com/spies-and-hackers-russians-sanctioned-us
 
 https://www.wordfence.com/blog/2016/12/russia-malware-ip-hack/
