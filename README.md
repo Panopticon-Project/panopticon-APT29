@@ -2,10 +2,6 @@
 
 For Tram:
 
-https://www.us-cert.gov/ncas/current-activity/2016/12/29/GRIZZLY-STEPPE-Russian-Malicious-Cyber-Activity 
-
-https://www.threatconnect.com/blog/tapping-into-democratic-national-committee/
-
 https://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html
 
 https://glomardisclosure.com/2016/07/25/timeline-of-the-dnc-and-akp-hacks-wikileaks-releases/
