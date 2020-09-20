@@ -132,6 +132,10 @@ https://www.securityweek.com/search/google/apt29?query=apt29&cx=0165403538646840
 
 https://www.securityweek.com/search/google/cozy%20bear?query=cozy%20bear&cx=016540353864684098383%3A6mcx-eenlzi&cof=FORID%3A11&sitesearch=&safe=off
 
+https://securelist.com/the-cozyduke-apt/69731/
+
+https://www.securityweek.com/onionduke-apt-malware-distributed-malicious-tor-exit-node
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
