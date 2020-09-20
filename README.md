@@ -2,10 +2,6 @@
 
 For Tram:
 
-https://arstechnica.com/security/2016/12/did-russia-tamper-with-the-2016-election-bitter-debate-likely-to-rage-on/
-
-https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
-
 http://blog.erratasec.com/2016/12/some-notes-on-iocs.html#.WJKCFPkrKUl
 
 https://www.threatconnect.com/blog/guccifer-2-0-dnc-breach/
