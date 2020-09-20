@@ -130,6 +130,10 @@ https://www.eset.com/int/about/newsroom/press-releases/research/operation-ghost-
 
 https://www.darkreading.com/attacks-breaches/russia-linked-group-resurfaces-with-large-scale-phishing-campaign/d/d-id/1333322
 
+https://www.securityweek.com/search/google/apt29?query=apt29&cx=016540353864684098383%3A6mcx-eenlzi&cof=FORID%3A11&sitesearch=&safe=off
+
+https://www.securityweek.com/search/google/cozy%20bear?query=cozy%20bear&cx=016540353864684098383%3A6mcx-eenlzi&cof=FORID%3A11&sitesearch=&safe=off
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
