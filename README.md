@@ -126,6 +126,8 @@ https://www.scmagazine.com/home/security-news/cozy-bear-tracks-phishing-campaign
 
 https://www.volexity.com/blog/2016/11/09/powerduke-post-election-spear-phishing-campaigns-targeting-think-tanks-and-ngos/
 
+https://www.youtube.com/watch?v=BuLuY7JArEg
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
