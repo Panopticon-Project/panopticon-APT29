@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.securityweek.com/trump-meet-us-spy-chiefs-get-russian-hacking-facts
-
 https://blog.talosintelligence.com/2020/08/attribution-puzzle.html
 
 https://arstechnica.com/security/2016/12/did-russia-tamper-with-the-2016-election-bitter-debate-likely-to-rage-on/
