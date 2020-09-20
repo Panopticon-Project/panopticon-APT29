@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.securityweek.com/more-evidence-links-russia-dnc-attack
-
 https://www.securityweek.com/us-officially-accuses-russia-election-hacks
 
 http://www.robertmlee.org/critiques-of-the-dhsfbis-grizzly-steppe-report/
