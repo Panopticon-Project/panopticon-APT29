@@ -2,8 +2,6 @@
 
 For Tram:
 
-http://www.robertmlee.org/critiques-of-the-dhsfbis-grizzly-steppe-report/
-
 https://obamawhitehouse.archives.gov/the-press-office/2016/12/29/fact-sheet-actions-response-russian-malicious-cyber-activity-and
 
 https://www.securityweek.com/us-punishes-russia-over-election-hacks
