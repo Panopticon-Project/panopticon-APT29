@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.wordfence.com/blog/2016/12/russia-malware-ip-hack/
-
 https://www.securityweek.com/trump-meet-us-spy-chiefs-get-russian-hacking-facts
 
 https://blog.talosintelligence.com/2020/08/attribution-puzzle.html
@@ -131,6 +129,8 @@ https://www.nytimes.com/2017/08/16/world/europe/russia-ukraine-malware-hacking-w
 https://krebsonsecurity.com/tag/p-a-s-web-shell/
 
 https://medium.com/mitre-attack/attack-apt29-results-released-cd30b3686ad9 - detection, may not be useful
+
+https://www.wordfence.com/blog/2016/12/russia-malware-ip-hack/
 
 Processed:
 
