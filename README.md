@@ -124,6 +124,8 @@ https://blogs.jpcert.or.jp/en/2018/07/malware-wellmes-9b78.html
 
 https://www.gov.uk/government/news/uk-condemns-russian-intelligence-services-over-vaccine-cyber-attacks
 
+https://us-cert.cisa.gov/ncas/analysis-reports/ar20-198b
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
