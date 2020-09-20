@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.youtube.com/watch?time_continue=2&v=i9vk93sYKm8&feature=emb_logo
-
 https://www.darkreading.com/threat-intelligence/cozy-bear-emerges-from-hibernation-to-hack-eu-ministries/d/d-id/1336111
 
 https://www.securityweek.com/uk-says-russian-hackers-trying-steal-virus-vaccine-research
@@ -127,6 +125,12 @@ https://www.scmagazine.com/home/security-news/cozy-bear-tracks-phishing-campaign
 https://www.volexity.com/blog/2016/11/09/powerduke-post-election-spear-phishing-campaigns-targeting-think-tanks-and-ngos/
 
 https://www.youtube.com/watch?v=BuLuY7JArEg
+
+https://www.youtube.com/watch?time_continue=2&v=i9vk93sYKm8&feature=emb_logo
+
+https://www.eset.com/int/about/newsroom/press-releases/research/operation-ghost-the-dnc-hacking-group-dukes-still-attacks-government-targets-eset-discovers/
+
+https://www.darkreading.com/attacks-breaches/russia-linked-group-resurfaces-with-large-scale-phishing-campaign/d/d-id/1333322
 
 Confirm why we have these:
 
