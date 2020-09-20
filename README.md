@@ -2,8 +2,6 @@
 
 For Tram:
 
-http://blog.erratasec.com/2016/12/some-notes-on-iocs.html#.WJKCFPkrKUl
-
 https://www.threatconnect.com/blog/guccifer-2-0-dnc-breach/
 
 https://www.invincea.com/2016/07/tunnel-of-gov-dnc-hack-and-the-russian-xtunnel/
