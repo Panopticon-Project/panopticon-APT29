@@ -146,6 +146,16 @@ https://medium.com/mitre-attack/attack-apt29-results-released-cd30b3686ad9 - det
 
 https://www.wordfence.com/blog/2016/12/russia-malware-ip-hack/
 
+https://www.washingtonpost.com/world/national-security/russian-government-hackers-penetrated-dnc-stole-opposition-research-on-trump/2016/06/14/cf006cb4-316e-11e6-8ff7-7b6c1998b7a0_story.html
+
+https://www.volexity.com/blog/2016/11/09/powerduke-post-election-spear-phishing-campaigns-targeting-think-tanks-and-ngos/
+
+https://www.nytimes.com/2016/12/20/insider/how-we-identified-the-dnc-hacks-patient-zero.html?action=click&module=RelatedCoverage&pgtype=Article&region=Footer
+
+https://blog.f-secure.com/the-dukes-7-years-of-russian-cyber-espionage/
+
+https://www.nytimes.com/2020/07/16/us/politics/vaccine-hacking-russia.html
+
 Processed:
 
 https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
