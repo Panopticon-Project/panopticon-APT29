@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html
-
 https://glomardisclosure.com/2016/07/25/timeline-of-the-dnc-and-akp-hacks-wikileaks-releases/
 
 https://www.schneier.com/blog/archives/2017/01/attributing_the_1.html
