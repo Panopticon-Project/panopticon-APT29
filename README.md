@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://www.schneier.com/blog/archives/2017/01/attributing_the_1.html
-
 http://www.npr.org/2010/11/30/131699467/is-wikileaks-release-brave-or-unethical
 
 https://twitter.com/GUCCIFER_2
