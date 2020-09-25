@@ -2,8 +2,6 @@
 
 For Tram:
 
-http://www.thedailybeast.com/articles/2015/04/08/obama-to-putin-stop-hacking-me.html
-
 http://researchcenter.paloaltonetworks.com/2015/07/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/
 
 http://researchcenter.paloaltonetworks.com/2015/07/unit-42-technical-analysis-seaduke/
