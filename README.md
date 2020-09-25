@@ -120,6 +120,12 @@ https://www.dni.gov/files/documents/ICA_2017_01.pdf
 
 https://intelligence.house.gov/uploadedfiles/sh21.pdf
 
+https://securelist.com/the-cozyduke-apt/69731/
+
+https://www.theregister.com/2015/04/22/cozyduke_hackers_white_house_state_dept_malware/
+
+https://unit42.paloaltonetworks.com/unit-42-technical-analysis-seaduke/
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
