@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://blog.malwarebytes.com/threat-analysis/2013/10/using-yara-to-attribute-malware/
-
 http://www.thedailybeast.com/articles/2015/04/08/obama-to-putin-stop-hacking-me.html
 
 http://researchcenter.paloaltonetworks.com/2015/07/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/
