@@ -2,8 +2,6 @@
 
 For Tram:
 
-http://www.npr.org/2010/11/30/131699467/is-wikileaks-release-brave-or-unethical
-
 https://twitter.com/GUCCIFER_2
 
 https://blog.malwarebytes.com/threat-analysis/2013/10/using-yara-to-attribute-malware/
