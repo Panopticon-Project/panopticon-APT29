@@ -124,6 +124,8 @@ https://unit42.paloaltonetworks.com/unit-42-technical-analysis-seaduke/
 
 https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2015/Forkmeiamfamous_SeaDuke.pdf
 
+https://www.leviathansecurity.com/blog/the-case-of-the-modified-binaries/
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
