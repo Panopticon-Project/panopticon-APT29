@@ -124,6 +124,8 @@ https://www.securityweek.com/tor-exit-node-found-maliciously-modifying-files
 
 https://www.microsoft.com/security/blog/2018/12/03/analysis-of-cyberattack-on-u-s-think-tanks-non-profits-public-sector-by-unidentified-attackers/
 
+https://www.fireeye.com/blog/threat-research/2017/03/dissecting_one_ofap.html
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
