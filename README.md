@@ -16,8 +16,6 @@ https://www.volexity.com/blog/2016/11/09/powerduke-post-election-spear-phishing-
 
 https://blog.malwarebytes.com/detections/trojan-dropper/
 
-https://www.securityweek.com/suspected-russian-hackers-impersonate-state-department-aide
-
 https://www.securityweek.com/no-smoking-gun-tying-russia-spear-phishing-attack-microsoft-says
 
 https://www.securityweek.com/apt29-uses-stealthy-backdoor-maintain-access-targets
