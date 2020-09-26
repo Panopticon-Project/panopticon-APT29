@@ -126,6 +126,8 @@ https://www.microsoft.com/security/blog/2018/12/03/analysis-of-cyberattack-on-u-
 
 https://www.fireeye.com/blog/threat-research/2017/03/dissecting_one_ofap.html
 
+https://www.securityweek.com/apt29-cyberspies-use-domain-fronting-evade-detection
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
