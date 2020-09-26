@@ -2,8 +2,6 @@
 
 For Tram:
 
-http://researchcenter.paloaltonetworks.com/2015/07/unit-42-technical-analysis-seaduke/
-
 https://archive.f-secure.com/weblog/archives/00002764.html
 
 https://securelist.com/miniduke-is-back-nemesis-gemina-and-the-botgen-studio/64107/
@@ -169,3 +167,6 @@ https://www.darkreading.com/threat-intelligence/cozy-bear-emerges-from-hibernati
 https://www.securityweek.com/cozyduke-apt-responsible-white-house-state-department-attacks-kaspersky
 
 http://researchcenter.paloaltonetworks.com/2015/07/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/
+
+http://researchcenter.paloaltonetworks.com/2015/07/unit-42-technical-analysis-seaduke/
+
