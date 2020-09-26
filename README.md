@@ -14,8 +14,6 @@ https://securelist.com/the-cozyduke-apt/69731/
 
 https://www.volexity.com/blog/2016/11/09/powerduke-post-election-spear-phishing-campaigns-targeting-think-tanks-and-ngos/
 
-https://www.securityweek.com/onionduke-apt-malware-distributed-malicious-tor-exit-node
-
 https://blog.malwarebytes.com/detections/trojan-dropper/
 
 https://www.securityweek.com/suspected-russian-hackers-impersonate-state-department-aide
