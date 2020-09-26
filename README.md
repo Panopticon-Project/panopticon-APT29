@@ -120,6 +120,12 @@ https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2015/Forkmeiamfam
 
 https://www.leviathansecurity.com/blog/the-case-of-the-modified-binaries/
 
+https://www.securityweek.com/miniduke-malware-targets-government-organizations
+
+https://www.securityweek.com/cosmicduke-malware-emerges-update-miniduke-espionage-trojan
+
+https://www.securityweek.com/tor-exit-node-found-maliciously-modifying-files
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
