@@ -128,6 +128,10 @@ https://www.fireeye.com/blog/threat-research/2017/03/dissecting_one_ofap.html
 
 https://www.securityweek.com/apt29-cyberspies-use-domain-fronting-evade-detection
 
+https://www.securityweek.com/evidence-links-russia-second-democratic-party-hack
+
+https://www.securityweek.com/norway-accuses-russia-cyberattack
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
