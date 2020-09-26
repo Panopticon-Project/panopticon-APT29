@@ -146,6 +146,8 @@ https://blog.f-secure.com/the-dukes-7-years-of-russian-cyber-espionage/
 
 https://www.nytimes.com/2020/07/16/us/politics/vaccine-hacking-russia.html
 
+https://www.securityweek.com/apt29-uses-stealthy-backdoor-maintain-access-targets
+
 Processed:
 
 https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
