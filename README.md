@@ -132,6 +132,10 @@ https://www.securityweek.com/evidence-links-russia-second-democratic-party-hack
 
 https://www.securityweek.com/norway-accuses-russia-cyberattack
 
+https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2014/07/20082442/circl-analysisreport-miniduke-stage3-public.pdf
+
+https://securelist.com/the-miniduke-mystery-pdf-0-day-government-spy-assembler-0x29a-micro-backdoor/31112/
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
