@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://blog.crysys.hu/2013/02/miniduke/
-
 https://unit42.paloaltonetworks.com/unit42-the-dukes-rd-finds-a-new-anti-analysis-technique/
 
 https://unit42.paloaltonetworks.com/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/
@@ -187,3 +185,5 @@ http://researchcenter.paloaltonetworks.com/2015/07/unit-42-technical-analysis-se
 https://archive.f-secure.com/weblog/archives/00002764.html
 
 https://securelist.com/miniduke-is-back-nemesis-gemina-and-the-botgen-studio/64107/
+
+https://blog.crysys.hu/2013/02/miniduke/
