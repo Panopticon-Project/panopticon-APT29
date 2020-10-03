@@ -2,8 +2,6 @@
 
 For Tram:
 
-https://securelist.com/miniduke-is-back-nemesis-gemina-and-the-botgen-studio/64107/
-
 https://blog.crysys.hu/2013/02/miniduke/
 
 https://unit42.paloaltonetworks.com/unit42-the-dukes-rd-finds-a-new-anti-analysis-technique/
@@ -187,3 +185,5 @@ http://researchcenter.paloaltonetworks.com/2015/07/tracking-minidionis-cozycars-
 http://researchcenter.paloaltonetworks.com/2015/07/unit-42-technical-analysis-seaduke/
 
 https://archive.f-secure.com/weblog/archives/00002764.html
+
+https://securelist.com/miniduke-is-back-nemesis-gemina-and-the-botgen-studio/64107/
