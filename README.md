@@ -158,6 +158,8 @@ https://www.nytimes.com/2020/07/16/us/politics/vaccine-hacking-russia.html
 
 https://www.securityweek.com/apt29-uses-stealthy-backdoor-maintain-access-targets
 
+https://norfolkinfosec.com/looking-back-at-liteduke/
+
 Processed:
 
 https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
