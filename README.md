@@ -160,6 +160,8 @@ https://www.securityweek.com/apt29-uses-stealthy-backdoor-maintain-access-target
 
 https://norfolkinfosec.com/looking-back-at-liteduke/
 
+https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
+
 Processed:
 
 https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
