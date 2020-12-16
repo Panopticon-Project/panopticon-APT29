@@ -1,7 +1,5 @@
 # panopticon-CozyBear
 
-For Tram:
-
 https://unit42.paloaltonetworks.com/unit42-the-dukes-rd-finds-a-new-anti-analysis-technique/
 
 https://unit42.paloaltonetworks.com/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/
@@ -27,8 +25,6 @@ https://www.zdnet.com/article/russian-apt-comes-back-to-life-with-new-us-spear-p
 https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html
 
 https://www.wired.com/2017/02/say-hello-super-stealthy-malware-thats-going-mainstream/
-
-Manual Analysis:
 
 https://asamborski.github.io/cs558_s17_blog/2017/02/24/dnc.html
 
@@ -133,6 +129,12 @@ https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2014/07/200824
 https://securelist.com/the-miniduke-mystery-pdf-0-day-government-spy-assembler-0x29a-micro-backdoor/31112/
 
 https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163405/CosmicDuke.pdf
+
+https://www.securityweek.com/group-behind-solarwinds-hack-bypassed-mfa-access-emails-us-think-tank
+
+https://www.securityweek.com/hack-may-have-exposed-deep-us-secrets-damage-yet-unknown
+
+https://www.securityweek.com/solarwinds-removes-customer-list-site-it-releases-second-hotfix
 
 Confirm why we have these:
 
