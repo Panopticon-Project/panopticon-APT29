@@ -138,6 +138,16 @@ https://www.securityweek.com/solarwinds-removes-customer-list-site-it-releases-s
 
 https://arstechnica.com/information-technology/2020/12/security-firm-fireeye-says-nation-state-hackers-stole-potent-attack-tools/
 
+https://www.scmagazine.com/home/security-news/apts-cyberespionage/disconnect-or-power-down-after-high-profile-hacks-cisa-demands-drastic-solarwinds-mitigation/
+
+https://www.theregister.com/2020/12/14/solarwinds_public_sector/
+
+https://siliconangle.com/2020/12/13/russian-hackers-allegedly-hack-us-commerce-treasury-departments/
+
+https://www.hackread.com/us-federal-agencies-hacked-russian-hackers/
+
+https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
