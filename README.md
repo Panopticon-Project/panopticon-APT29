@@ -150,6 +150,12 @@ https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-
 
 https://arstechnica.com/information-technology/2020/12/solarwinds-hackers-have-a-clever-way-to-bypass-multi-factor-authentication/
 
+https://www.cyberscoop.com/fireeye-microsoft-solar-winds-killswitch-hack/
+
+https://twitter.com/RedDrip7/status/1339168187619790848
+
+https://github.com/RedDrip7/SunBurst_DGA_Decode
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
