@@ -156,6 +156,12 @@ https://twitter.com/RedDrip7/status/1339168187619790848
 
 https://github.com/RedDrip7/SunBurst_DGA_Decode
 
+https://www.securityweek.com/supply-chain-attack-cisa-warns-new-initial-attack-vectors-posing-grave-risk
+
+https://www.securityweek.com/killswitch-found-malware-used-solarwinds-hack
+
+https://www.securityweek.com/fbi-cisa-odni-describe-response-solarwinds-attack
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
