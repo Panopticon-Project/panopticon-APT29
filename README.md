@@ -162,6 +162,8 @@ https://www.securityweek.com/killswitch-found-malware-used-solarwinds-hack
 
 https://www.securityweek.com/fbi-cisa-odni-describe-response-solarwinds-attack
 
+https://www.tripwire.com/state-of-security/vert/vert-alert-solar-winds-supply-chain-attack/
+
 Confirm why we have these:
 
 https://arstechnica.com/gadgets/2017/08/ukraine-malware-author-turns-witness-in-russian-dnc-hacking-investigation/
