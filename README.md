@@ -225,3 +225,5 @@ https://www.securityweek.com/fbi-cisa-odni-describe-response-solarwinds-attack
 https://www.tripwire.com/state-of-security/vert/vert-alert-solar-winds-supply-chain-attack/
 
 https://www.zscaler.com/blogs/security-research/hitchhikers-guide-solarwinds-incident-response
+
+https://securelist.com/sunburst-connecting-the-dots-in-the-dns-requests/99862/
