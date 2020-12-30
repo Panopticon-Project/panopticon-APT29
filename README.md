@@ -227,3 +227,5 @@ https://www.tripwire.com/state-of-security/vert/vert-alert-solar-winds-supply-ch
 https://www.zscaler.com/blogs/security-research/hitchhikers-guide-solarwinds-incident-response
 
 https://securelist.com/sunburst-connecting-the-dots-in-the-dns-requests/99862/
+
+https://www.theregister.com/2020/12/18/solarwinds_nnsa_microsoft_cisa/
