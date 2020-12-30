@@ -231,3 +231,5 @@ https://securelist.com/sunburst-connecting-the-dots-in-the-dns-requests/99862/
 https://www.theregister.com/2020/12/18/solarwinds_nnsa_microsoft_cisa/
 
 https://unit42.paloaltonetworks.com/solarstorm-supernova/
+
+https://www.fireeye.fr/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html
