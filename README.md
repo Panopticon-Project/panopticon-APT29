@@ -177,3 +177,5 @@ https://www.fireeye.fr/blog/threat-research/2020/12/evasive-attacker-leverages-s
 https://www.cyberscoop.com/cozy-bear-apt29-solarwinds-russia-persistent/
 
 https://securelist.com/how-we-protect-against-sunburst-backdoor/99959/
+
+https://www.securityweek.com/over-250-organizations-breached-solarwinds-supply-chain-hack-report
