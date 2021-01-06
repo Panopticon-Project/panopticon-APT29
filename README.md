@@ -181,3 +181,5 @@ https://securelist.com/how-we-protect-against-sunburst-backdoor/99959/
 https://www.securityweek.com/over-250-organizations-breached-solarwinds-supply-chain-hack-report
 
 https://www.securityweek.com/us-hack-federal-agencies-likely-russian-origin
+
+https://www.infosecurity-magazine.com/news/us-fewer-10-government-agencies/
