@@ -183,3 +183,5 @@ https://www.securityweek.com/over-250-organizations-breached-solarwinds-supply-c
 https://www.securityweek.com/us-hack-federal-agencies-likely-russian-origin
 
 https://www.infosecurity-magazine.com/news/us-fewer-10-government-agencies/
+
+https://www.bleepingcomputer.com/news/security/solarwinds-hackers-had-access-to-over-3-000-us-doj-email-accounts/
