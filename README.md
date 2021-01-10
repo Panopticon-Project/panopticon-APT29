@@ -129,3 +129,5 @@ https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2014/07/200824
 https://securelist.com/the-miniduke-mystery-pdf-0-day-government-spy-assembler-0x29a-micro-backdoor/31112/
 
 https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163405/CosmicDuke.pdf
+
+https://www.cyberscoop.com/cozy-bear-apt29-solarwinds-russia-persistent/
