@@ -131,3 +131,5 @@ https://securelist.com/the-miniduke-mystery-pdf-0-day-government-spy-assembler-0
 https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163405/CosmicDuke.pdf
 
 https://www.cyberscoop.com/cozy-bear-apt29-solarwinds-russia-persistent/
+
+https://0xthreatintel.medium.com/uncovering-apt29-tool-trojan-polyglot-duke-unpacking-9af3a850bf1b
