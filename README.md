@@ -135,3 +135,5 @@ https://www.cyberscoop.com/cozy-bear-apt29-solarwinds-russia-persistent/
 https://0xthreatintel.medium.com/uncovering-apt29-tool-trojan-polyglot-duke-unpacking-9af3a850bf1b
 
 https://twitter.com/InfosecNewsBot/status/1376661973547548673
+
+https://threatpost.com/nsa-security-bugs-active-nation-state-cyberattack/165446/
