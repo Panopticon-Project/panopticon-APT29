@@ -137,3 +137,5 @@ https://0xthreatintel.medium.com/uncovering-apt29-tool-trojan-polyglot-duke-unpa
 https://twitter.com/InfosecNewsBot/status/1376661973547548673
 
 https://threatpost.com/nsa-security-bugs-active-nation-state-cyberattack/165446/
+
+https://www.theregister.com/2021/05/07/ncsc_russia_vulns_smart_cities_china_warning/
