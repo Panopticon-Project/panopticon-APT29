@@ -141,3 +141,5 @@ https://threatpost.com/nsa-security-bugs-active-nation-state-cyberattack/165446/
 https://www.theregister.com/2021/05/07/ncsc_russia_vulns_smart_cities_china_warning/
 
 https://us-cert.cisa.gov/ncas/alerts/aa21-116a
+
+https://therecord.media/uk-government-shares-more-vulnerabilities-exploited-by-russias-apt29-hackers/
