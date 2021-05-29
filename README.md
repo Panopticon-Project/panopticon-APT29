@@ -143,3 +143,5 @@ https://www.theregister.com/2021/05/07/ncsc_russia_vulns_smart_cities_china_warn
 https://us-cert.cisa.gov/ncas/alerts/aa21-116a
 
 https://therecord.media/uk-government-shares-more-vulnerabilities-exploited-by-russias-apt29-hackers/
+
+https://www.cyberscoop.com/cozy-bear-volexity-election-fraud-usaid-spearphishing/
