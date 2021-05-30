@@ -147,3 +147,5 @@ https://therecord.media/uk-government-shares-more-vulnerabilities-exploited-by-r
 https://www.cyberscoop.com/cozy-bear-volexity-election-fraud-usaid-spearphishing/
 
 https://www.securityweek.com/us-uk-gov-warning-solarwinds-attackers-add-open-source-pentest-tool-arsenal
+
+https://us-cert.cisa.gov/ncas/current-activity/2021/05/07/joint-ncsc-cisa-fbi-nsa-cybersecurity-advisory-russian-svr
