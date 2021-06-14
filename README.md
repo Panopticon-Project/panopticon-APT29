@@ -153,3 +153,5 @@ https://us-cert.cisa.gov/ncas/current-activity/2021/05/07/joint-ncsc-cisa-fbi-ns
 https://www.bleepingcomputer.com/news/security/microsoft-russian-hackers-used-4-new-malware-in-usaid-phishing/
 
 https://blog.malwarebytes.com/reports/2021/06/russia-accused-of-hacking-dutch-police-during-mh17-investigation/
+
+https://labs.sentinelone.com/noblebaron-new-poisoned-installers-could-be-used-in-supply-chain-attacks/
