@@ -157,3 +157,5 @@ https://blog.malwarebytes.com/reports/2021/06/russia-accused-of-hacking-dutch-po
 https://labs.sentinelone.com/noblebaron-new-poisoned-installers-could-be-used-in-supply-chain-attacks/
 
 https://www.bleepingcomputer.com/news/security/us-seizes-domains-used-by-apt29-in-recent-usaid-phishing-attacks/
+
+https://www.crowdstrike.com/blog/how-crowdstrike-protects-against-recent-cozy-bear-phishing-campaign/
