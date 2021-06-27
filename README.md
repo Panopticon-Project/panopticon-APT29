@@ -159,3 +159,5 @@ https://labs.sentinelone.com/noblebaron-new-poisoned-installers-could-be-used-in
 https://www.bleepingcomputer.com/news/security/us-seizes-domains-used-by-apt29-in-recent-usaid-phishing-attacks/
 
 https://www.crowdstrike.com/blog/how-crowdstrike-protects-against-recent-cozy-bear-phishing-campaign/
+
+https://securityaffairs.co/wordpress/119425/apt/solarwinds-nobelium-ongoing-campaign.html
