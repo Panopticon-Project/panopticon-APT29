@@ -161,3 +161,5 @@ https://www.bleepingcomputer.com/news/security/us-seizes-domains-used-by-apt29-i
 https://www.crowdstrike.com/blog/how-crowdstrike-protects-against-recent-cozy-bear-phishing-campaign/
 
 https://securityaffairs.co/wordpress/119425/apt/solarwinds-nobelium-ongoing-campaign.html
+
+https://www.bloomberg.com/news/articles/2021-07-06/russian-state-hackers-breached-republican-national-committee
