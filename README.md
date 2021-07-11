@@ -163,3 +163,5 @@ https://www.crowdstrike.com/blog/how-crowdstrike-protects-against-recent-cozy-be
 https://securityaffairs.co/wordpress/119425/apt/solarwinds-nobelium-ongoing-campaign.html
 
 https://www.bloomberg.com/news/articles/2021-07-06/russian-state-hackers-breached-republican-national-committee
+
+https://www.cyberscoop.com/russian-hackers-microsoft-solarwinds-cozybear/
