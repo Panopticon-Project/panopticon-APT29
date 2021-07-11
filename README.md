@@ -165,3 +165,5 @@ https://securityaffairs.co/wordpress/119425/apt/solarwinds-nobelium-ongoing-camp
 https://www.bloomberg.com/news/articles/2021-07-06/russian-state-hackers-breached-republican-national-committee
 
 https://www.cyberscoop.com/russian-hackers-microsoft-solarwinds-cozybear/
+
+https://www.bleepingcomputer.com/news/security/russian-hackers-had-months-long-access-to-denmarks-central-bank/
