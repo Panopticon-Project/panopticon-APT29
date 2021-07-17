@@ -167,3 +167,5 @@ https://www.bloomberg.com/news/articles/2021-07-06/russian-state-hackers-breache
 https://www.cyberscoop.com/russian-hackers-microsoft-solarwinds-cozybear/
 
 https://www.bleepingcomputer.com/news/security/russian-hackers-had-months-long-access-to-denmarks-central-bank/
+
+https://www.wired.com/story/solarwinds-hackers-used-ios-zeroday-compromise-iphones
