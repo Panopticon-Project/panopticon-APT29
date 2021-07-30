@@ -169,3 +169,5 @@ https://www.cyberscoop.com/russian-hackers-microsoft-solarwinds-cozybear/
 https://www.bleepingcomputer.com/news/security/russian-hackers-had-months-long-access-to-denmarks-central-bank/
 
 https://www.wired.com/story/solarwinds-hackers-used-ios-zeroday-compromise-iphones
+
+https://blog.google/threat-analysis-group/how-we-protect-users-0-day-attacks/
