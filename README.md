@@ -171,3 +171,7 @@ https://www.bleepingcomputer.com/news/security/russian-hackers-had-months-long-a
 https://www.wired.com/story/solarwinds-hackers-used-ios-zeroday-compromise-iphones
 
 https://blog.google/threat-analysis-group/how-we-protect-users-0-day-attacks/
+
+https://www.theregister.com/2021/07/30/riskiq_reveals_30_svr_apt29_c2_servers/
+
+https://www.riskiq.com/blog/external-threat-management/apt29-bear-tracks/
