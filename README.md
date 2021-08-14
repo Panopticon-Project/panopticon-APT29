@@ -179,3 +179,5 @@ https://www.riskiq.com/blog/external-threat-management/apt29-bear-tracks/
 https://www.securityweek.com/russias-apt29-still-actively-delivering-malware-used-covid-19-vaccine-spying
 
 https://www.securityweek.com/russias-apt29-still-actively-delivering-malware-used-covid-19-vaccine-spying
+
+https://www.istrosec.com/blog/apt-sk-cobalt/
