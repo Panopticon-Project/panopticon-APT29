@@ -181,3 +181,5 @@ https://www.securityweek.com/russias-apt29-still-actively-delivering-malware-use
 https://www.securityweek.com/russias-apt29-still-actively-delivering-malware-used-covid-19-vaccine-spying
 
 https://www.istrosec.com/blog/apt-sk-cobalt/
+
+https://msrc-blog.microsoft.com/2021/06/25/new-nobelium-activity/
