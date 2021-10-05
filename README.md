@@ -185,3 +185,5 @@ https://www.istrosec.com/blog/apt-sk-cobalt/
 https://msrc-blog.microsoft.com/2021/06/25/new-nobelium-activity/
 
 https://www.csoonline.com/article/3635095/apt29-targets-active-directory-federation-services-with-stealthy-backdoor.html#tk.rss_news
+
+https://cybergeeks.tech/how-to-defeat-the-russian-dukes-a-step-by-step-analysis-of-miniduke-used-by-apt29-cozy-bear/
