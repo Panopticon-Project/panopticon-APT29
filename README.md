@@ -187,3 +187,5 @@ https://msrc-blog.microsoft.com/2021/06/25/new-nobelium-activity/
 https://www.csoonline.com/article/3635095/apt29-targets-active-directory-federation-services-with-stealthy-backdoor.html#tk.rss_news
 
 https://cybergeeks.tech/how-to-defeat-the-russian-dukes-a-step-by-step-analysis-of-miniduke-used-by-apt29-cozy-bear/
+
+https://www.securityweek.com/russia-linked-solarwinds-hackers-continue-launching-supply-chain-attacks
