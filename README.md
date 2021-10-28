@@ -189,3 +189,5 @@ https://www.csoonline.com/article/3635095/apt29-targets-active-directory-federat
 https://cybergeeks.tech/how-to-defeat-the-russian-dukes-a-step-by-step-analysis-of-miniduke-used-by-apt29-cozy-bear/
 
 https://www.securityweek.com/russia-linked-solarwinds-hackers-continue-launching-supply-chain-attacks
+
+https://blogs.microsoft.com/on-the-issues/2021/10/24/new-activity-from-russian-actor-nobelium/
