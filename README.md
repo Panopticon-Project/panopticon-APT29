@@ -191,3 +191,5 @@ https://cybergeeks.tech/how-to-defeat-the-russian-dukes-a-step-by-step-analysis-
 https://www.securityweek.com/russia-linked-solarwinds-hackers-continue-launching-supply-chain-attacks
 
 https://blogs.microsoft.com/on-the-issues/2021/10/24/new-activity-from-russian-actor-nobelium/
+
+https://adversary.crowdstrike.com/en-US/adversary/cozy-bear/
