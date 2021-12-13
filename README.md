@@ -195,3 +195,5 @@ https://blogs.microsoft.com/on-the-issues/2021/10/24/new-activity-from-russian-a
 https://adversary.crowdstrike.com/en-US/adversary/cozy-bear/
 
 https://0xthreatintel.medium.com/unpacking-of-apt29-polyglotduke-6b3544ccd637
+
+https://securityaffairs.co/wordpress/125342/apt/nobelium-targets-french-orgs.html
