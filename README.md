@@ -197,3 +197,9 @@ https://adversary.crowdstrike.com/en-US/adversary/cozy-bear/
 https://0xthreatintel.medium.com/unpacking-of-apt29-polyglotduke-6b3544ccd637
 
 https://securityaffairs.co/wordpress/125342/apt/nobelium-targets-french-orgs.html
+
+https://www.zdnet.com/article/hackers-are-using-this-new-malware-which-hides-between-blocks-of-junk-code/
+
+https://www.mandiant.com/resources/russian-targeting-gov-business
+
+https://www.microsoft.com/security/blog/2021/11/10/the-hunt-for-nobelium-the-most-sophisticated-nation-state-attack-in-history/
