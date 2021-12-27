@@ -205,3 +205,5 @@ https://www.mandiant.com/resources/russian-targeting-gov-business
 https://www.microsoft.com/security/blog/2021/11/10/the-hunt-for-nobelium-the-most-sophisticated-nation-state-attack-in-history/
 
 https://therecord.media/russian-hackers-bypass-2fa-by-annoying-victims-with-repeated-push-notifications/
+
+https://www.microsoft.com/security/blog/2021/12/15/the-final-report-on-nobeliums-unprecedented-nation-state-attack/
