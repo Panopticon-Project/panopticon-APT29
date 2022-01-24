@@ -1,5 +1,7 @@
 # panopticon-CozyBear
 
+https://www.kitploit.com/2022/01/mandiant-azure-ad-investigator.html
+
 https://unit42.paloaltonetworks.com/unit42-the-dukes-rd-finds-a-new-anti-analysis-technique/
 
 https://unit42.paloaltonetworks.com/tracking-minidionis-cozycars-new-ride-is-related-to-seaduke/
