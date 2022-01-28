@@ -1,5 +1,7 @@
 # panopticon-CozyBear
 
+https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/
+
 https://www.kitploit.com/2022/01/mandiant-azure-ad-investigator.html
 
 https://unit42.paloaltonetworks.com/unit42-the-dukes-rd-finds-a-new-anti-analysis-technique/
