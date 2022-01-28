@@ -1,5 +1,7 @@
 # panopticon-CozyBear
 
+https://www.bleepingcomputer.com/news/security/russian-apt29-hackers-stealthy-malware-undetected-for-years/
+
 https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/
 
 https://www.kitploit.com/2022/01/mandiant-azure-ad-investigator.html
