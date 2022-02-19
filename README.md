@@ -215,3 +215,5 @@ https://therecord.media/russian-hackers-bypass-2fa-by-annoying-victims-with-repe
 https://www.microsoft.com/security/blog/2021/12/15/the-final-report-on-nobeliums-unprecedented-nation-state-attack/
 
 https://www.securityweek.com/solarwinds-hackers-use-new-malware-attacks-serve-russian-interests
+
+https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
