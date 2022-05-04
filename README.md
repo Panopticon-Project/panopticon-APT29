@@ -217,3 +217,5 @@ https://www.microsoft.com/security/blog/2021/12/15/the-final-report-on-nobeliums
 https://www.securityweek.com/solarwinds-hackers-use-new-malware-attacks-serve-russian-interests
 
 https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
+
+https://www.mandiant.com/resources/tracking-apt29-phishing-campaigns
