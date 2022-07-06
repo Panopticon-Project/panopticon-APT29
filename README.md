@@ -221,3 +221,5 @@ https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
 https://www.mandiant.com/resources/tracking-apt29-phishing-campaigns
 
 https://www.recordedfuture.com/solardeflection-c2-infrastructure-used-by-nobelium-in-company-brand-misuse/
+
+https://unit42.paloaltonetworks.com/brute-ratel-c4-tool/?utm_source=substack&utm_medium=email
