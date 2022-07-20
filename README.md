@@ -225,3 +225,5 @@ https://www.recordedfuture.com/solardeflection-c2-infrastructure-used-by-nobeliu
 https://unit42.paloaltonetworks.com/brute-ratel-c4-tool/?utm_source=substack&utm_medium=email
 
 https://www.securityweek.com/hackers-using-brute-ratel-c4-red-teaming-tool-evade-detection
+
+https://unit42.paloaltonetworks.com/cloaked-ursa-online-storage-services-campaigns/
