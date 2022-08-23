@@ -227,3 +227,5 @@ https://unit42.paloaltonetworks.com/brute-ratel-c4-tool/?utm_source=substack&utm
 https://www.securityweek.com/hackers-using-brute-ratel-c4-red-teaming-tool-evade-detection
 
 https://unit42.paloaltonetworks.com/cloaked-ursa-online-storage-services-campaigns/
+
+https://www.mandiant.com/resources/blog/apt29-continues-targeting-microsoft
