@@ -229,3 +229,5 @@ https://www.securityweek.com/hackers-using-brute-ratel-c4-red-teaming-tool-evade
 https://unit42.paloaltonetworks.com/cloaked-ursa-online-storage-services-campaigns/
 
 https://www.mandiant.com/resources/blog/apt29-continues-targeting-microsoft
+
+https://www.microsoft.com/security/blog/2022/08/24/magicweb-nobeliums-post-compromise-trick-to-authenticate-as-anyone/
