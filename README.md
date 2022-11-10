@@ -231,3 +231,5 @@ https://unit42.paloaltonetworks.com/cloaked-ursa-online-storage-services-campaig
 https://www.mandiant.com/resources/blog/apt29-continues-targeting-microsoft
 
 https://www.microsoft.com/security/blog/2022/08/24/magicweb-nobeliums-post-compromise-trick-to-authenticate-as-anyone/
+
+https://www.securityweek.com/analysis-russian-cyberspy-attacks-leads-discovery-windows-vulnerability
