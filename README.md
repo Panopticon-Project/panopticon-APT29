@@ -233,3 +233,5 @@ https://www.mandiant.com/resources/blog/apt29-continues-targeting-microsoft
 https://www.microsoft.com/security/blog/2022/08/24/magicweb-nobeliums-post-compromise-trick-to-authenticate-as-anyone/
 
 https://www.securityweek.com/analysis-russian-cyberspy-attacks-leads-discovery-windows-vulnerability
+
+https://ti.qianxin.com/blog/articles/analysis-of-apt29's-attack-activities-against-italy/
